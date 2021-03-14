@@ -23,3 +23,7 @@ volatile const int loc;
 const volatile int *ploc;
 ```
 
+
+
+:book: [更详细的讲解](https://www.huaweicloud.com/articles/e4e3ee53e594c40a9ad3da9687f94bc7.html)
+
